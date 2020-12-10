@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">PSD - Babahov, Gleb</string>
+    <string name="p">P</string>
+    <string name="a">A</string>
+    <string name="s">S</string>
+    <string name="w">W</string>
+    <string name="o">O</string>
+    <string name="r">R</string>
+    <string name="d">D</string>
+    <string name="password_hint">Password</string>
+    <array name="animals_array">
+        <item>@drawable/animal0</item>
+        <item>@drawable/animal1</item>
+        <item>@drawable/animal2</item>
+        <item>@drawable/animal3</item>
+        <item>@drawable/animal4</item>
+        <item>@drawable/animal5</item>
+        <item>@drawable/animal6</item>
+    </array>
+    <string-array name="sounds">
+        <item>Moo!</item>
+        <item>Wa-pa-pa-pa-pa-pa-pow!</item>
+        <item>Woof!</item>
+        <item>Meow!</item>
+        <item>Ooh ooh ah ah!</item>
+        <item>Oink!</item>
+        <item>Hoo!</item>
+    </string-array>
+</resources>
